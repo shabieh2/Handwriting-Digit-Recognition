@@ -1,3 +1,3 @@
-# P5_Deep_Learning
+# CNN
 
 Deep Learning Project Steps
